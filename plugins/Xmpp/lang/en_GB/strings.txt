@@ -1,0 +1,20 @@
+<?php
+
+/**
+ * This script is distributed under the GNU General Public License 2 or later.
+ *
+ * @filesource  xmpp.php
+ *
+ */
+
+$TLS_plugin_Xmpp_description = "XMPP Plugin";
+$TLS_plugin_Xmpp_config = "Configure Xmpp Plugin";
+$TLS_plugin_Xmpp_config_page_saved = "Configuration Saved";
+$TLS_plugin_Xmpp_config_page_header_message = "XMPP Configuration";
+$TLS_plugin_Xmpp_config_page_title = "Configuration for XMPP Plugin";
+$TLS_plugin_Xmpp_config_label_config1 = "Receipient";
+$TLS_plugin_Xmpp_config_label_config2 = "Login";
+$TLS_plugin_Xmpp_config_label_config3 = "Password";
+$TLS_plugin_Xmpp_config_label_config4 = "Server";
+$TLS_plugin_Xmpp_config_label_config5 = "Port";
+$TLS_plugin_Xmpp_config_label_save_button = "Save Config";
